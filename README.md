@@ -7,6 +7,5 @@
 - ☁️ With a strong command over cloud technologies, big data frameworks, and databases, I bring scalable solutions to the table.️💻🗄️
 
 - Let's connect and explore the potential of data together! 🌐🤝
-
-- <a href="https://www.linkedin.com/in/shaival99/"><img src="https://i.imgur.com/BeTaSqi.png" alt="LinkedIn" width="36px" height="36px"></a>
-- <a href="shaivals.2639@gmail.com"><img src="https://i.imgur.com/6EyYFZb.png" alt="Email" width="36px" height="36px"></a>
+<a href="https://www.linkedin.com/in/shaival99/"><img src="https://i.imgur.com/BeTaSqi.png" alt="LinkedIn" width="36px" height="36px"></a>
+<a href="shaivals.2639@gmail.com"><img src="https://i.imgur.com/6EyYFZb.png" alt="Email" width="36px" height="36px"></a>
