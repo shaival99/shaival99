@@ -8,5 +8,5 @@
 
 ## Let's connect and explore the potential of data together! 🌐🤝
 
-<a href="https://www.linkedin.com/in/shaival99/"><img src="https://i.imgur.com/BeTaSqi.png" alt="LinkedIn" width="36px" height="36px"></a>
+<a href="https://www.linkedin.com/in/shaival99/"><img src="https://i.imgur.com/BeTaSqi.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="36px" height="36px"></a>
 <a href="shaivals.2639@gmail.com"><img src="https://i.imgur.com/6EyYFZb.png" alt="Email" width="36px" height="36px"></a>
